@@ -10,9 +10,13 @@ I'll assistant and guide you to solve them entirely after you purchasing the awe
 
 ## 🎓 About the Curriculum
 
-Namely, there has **3** number of episodes (**1**, **4** and **8**) are **`free`** in fact you just master the **extra 7** number of Oracle SQL knowledge skills in this course.
-
 In each episode the deliverable resouce types have **`Video (.mp4)`**, **`Slide Deck (.pdf)`**, **`Infographic (.png)`**, the **`similar Podcast App (.html, .m4a and .txt)`** within a **.zip** compressed format by **WinRAR** software.
+
+I've built the promotional activity for the curriculum. Namely, there has **3** number of episodes (**1**, **4** and **8**) are **`free`** (you can directly click **`links`** about the free portion in the **`Course Outline`** below to learn them) in fact you just master the **extra 7** number of Oracle SQL knowledge skills in this course (you'll find them after paying $7 from [https://quanwenzhao.gumroad.com/l/1NoOSIPSYvEO](https://quanwenzhao.gumroad.com/l/1NoOSIPSYvEO)).
+
+Here's an image about the extra 7 number of episodes when you finished purchasing this course.
+
+
 
 ### Note:
 
