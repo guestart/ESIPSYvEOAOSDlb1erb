@@ -6,7 +6,7 @@ Whether you've encountered impressed **`Pain Spots`** when dealing with Oracle S
 
 I think there exists plenty of Pain Spots particularly using Oracle SQL. Here're impressed **`Top 10`** (for the **BEGINNER** level) ...
 
-I'll assistant and guide you to solve them entirely after you purchasing the awesome curriculum.
+You're able to solve them entirely after purchasing the awesome curriculum.
 
 ## 🎓 About the Curriculum
 
