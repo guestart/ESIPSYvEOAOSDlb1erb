@@ -26,7 +26,7 @@ You need upload **.m4a** (ensure it's in the **`correct episode`** and the **`co
 
 ## 📚 Course Outline
 
-- 01 Why Legacy Oracle SQL Joins Crash Databases? **`(free)`**
+- 01 Why Legacy Oracle SQL Joins Crash Databases? **`(FREE)`**
   - Video: [Oracle SQL Join Paradox.mp4](https://youtu.be/wTMNKrRMXxs)
   - Slide Deck: [Oracle SQL Join Paradox.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/Oracle%20SQL%20Join%20Paradox.pdf)
   - Infographic: [SQL Join Syntax Standards Comparison.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/SQL%20Join%20Syntax%20Standards%20Comparison.png)
@@ -37,7 +37,7 @@ You need upload **.m4a** (ensure it's in the **`correct episode`** and the **`co
 
 - 03 Replace ROWNUM with FETCH_FIRST For Speed!
 
-- 04 Why Oracle SQL Top-N Queries Fail? **`(free)`**
+- 04 Why Oracle SQL Top-N Queries Fail? **`(FREE)`**
   - Video: [The Top-N Ghost in the Machine.mp4](https://youtu.be/mHv4nyCmm0w)
   - Slide Deck: [The Oracle ROWNUM Paradox.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/The%20Oracle%20ROWNUM%20Paradox.pdf)
   - Infographic: [Database ROWNUM Top-N Query Paradoxed.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/Database%20ROWNUM%20Top-N%20Query%20Paradoxed.png)
@@ -50,7 +50,7 @@ You need upload **.m4a** (ensure it's in the **`correct episode`** and the **`co
 
 - 07 The Risks of Legacy Oracle Database Types!
 
-- 08 Two Missing Quotes Crash Oracle Databases! **`(free)`**
+- 08 Two Missing Quotes Crash Oracle Databases! **`(FREE)`**
   - Video: [Invisible Index Killer.mp4](https://youtu.be/J5gPSrDer0Y)
   - Slide Deck: [Invisible Index Killer.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Invisible%20Index%20Killer.pdf)
   - Infographic: [Mastering SQL Implicit Data Conversions.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Mastering%20SQL%20Implicit%20Data%20Conversions.png)
