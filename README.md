@@ -30,7 +30,7 @@ Here's an image about the **extra 7 number of episodes** when you finished purch
 
 ## 📚 Course Outline
 
-- **01. Why Legacy Oracle SQL Joins Crash Databases?** **`(FREE)`** ✅
+- **01. Why Legacy Oracle SQL Joins Crash Databases?** ✅
   - Video: [Oracle SQL Join Paradox.mp4](https://youtu.be/wTMNKrRMXxs)
   - Slide Deck: [Oracle SQL Join Paradox.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/Oracle%20SQL%20Join%20Paradox.pdf)
   - Infographic: [SQL Join Syntax Standards Comparison.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/SQL%20Join%20Syntax%20Standards%20Comparison.png)
@@ -38,11 +38,11 @@ Here's an image about the **extra 7 number of episodes** when you finished purch
   - Similar Podcast App 2: [Podcast-Why Legacy Oracle SQL Joins Crash Databases-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Why Legacy Oracle SQL Joins Crash Databases.m4a`** in the .html)
   - Similar Podcast App Subtitles: [Why Legacy Oracle SQL Joins Crash Databases.txt](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases.txt)
 
-- **02. Why Oracle ROWNUM Greater Than One Returns Zero?**
+- **02. Why Oracle ROWNUM Greater Than One Returns Zero?** **`(PAID)`**
 
-- **03. Replace ROWNUM with FETCH_FIRST For Speed!**
+- **03. Replace ROWNUM with FETCH_FIRST For Speed!** **`(PAID)`**
 
-- **04. Why Oracle SQL Top-N Queries Fail?** **`(FREE)`** ✅
+- **04. Why Oracle SQL Top-N Queries Fail?** ✅
   - Video: [The Top-N Ghost in the Machine.mp4](https://youtu.be/mHv4nyCmm0w)
   - Slide Deck: [The Oracle ROWNUM Paradox.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/The%20Oracle%20ROWNUM%20Paradox.pdf)
   - Infographic: [Database ROWNUM Top-N Query Paradoxed.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/Database%20ROWNUM%20Top-N%20Query%20Paradoxed.png)
@@ -50,13 +50,13 @@ Here's an image about the **extra 7 number of episodes** when you finished purch
   - Similar Podcast App 2: [Podcast-Why Oracle SQL Top-N Queries Fail-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Why%20Oracle%20SQL%20Top-N%20Queries%20Fail-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Why Oracle SQL Top-N Queries Fail.m4a`** in the .html)
   - Similar Podcast App Subtitles: [Why Oracle SQL Top-N Queries Fail.txt](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/Why%20Oracle%20SQL%20Top-N%20Queries%20Fail.txt)
 
-- **05. Why Your SQL Results Keep Shifting?**
+- **05. Why Your SQL Results Keep Shifting?** **`(PAID)`**
 
-- **06. Why CHAR Columns Kill Oracle Performance?**
+- **06. Why CHAR Columns Kill Oracle Performance?** **`(PAID)`**
 
-- **07. The Risks of Legacy Oracle Database Types!**
+- **07. The Risks of Legacy Oracle Database Types!** **`(PAID)`**
 
-- **08. Two Missing Quotes Crash Oracle Databases!** **`(FREE)`** ✅
+- **08. Two Missing Quotes Crash Oracle Databases!** ✅
   - Video: [Invisible Index Killer.mp4](https://youtu.be/J5gPSrDer0Y)
   - Slide Deck: [Invisible Index Killer.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Invisible%20Index%20Killer.pdf)
   - Infographic: [Mastering SQL Implicit Data Conversions.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Mastering%20SQL%20Implicit%20Data%20Conversions.png)
@@ -64,9 +64,9 @@ Here's an image about the **extra 7 number of episodes** when you finished purch
   - Similar Podcast App 2: [Podcast-Two Missing Quotes Crash Oracle Databases-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Two%20Missing%20Quotes%20Crash%20Oracle%20Databases-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Two Missing Quotes Crash Oracle Databases.m4a`** in the .html)
   - Similar Podcast App Subtitles: [Two Missing Quotes Crash Oracle Databases.txt](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Two%20Missing%20Quotes%20Crash%20Oracle%20Databases.txt)
 
-- **09. Replace Database Triggers With Virtual Columns!**
+- **09. Replace Database Triggers With Virtual Columns!** **`(PAID)`**
 
-- **10. Why Databases Ignore Your Function-Based Index?**
+- **10. Why Databases Ignore Your Function-Based Index?** **`(PAID)`**
 
 ## 🔍 About the Author
 
