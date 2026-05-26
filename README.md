@@ -1,6 +1,6 @@
 # 🌟 Elegantly Solving Oracle SQL Impressed Pain Spots You've Encountered Once (10 episodes) 🌟
 
-![](https://guestart.github.io/ESOSIPSYvEOlb1erb/10%20Number%20of%20Oracle%20SQL%20Impressed%20Pain%20Spots%20You've%20Encountered%20Once.png)
+![](https://guestart.github.io/ESOSIPSYvEOlb1erb/Oracle%20DB%20Performance%20%26%20Architecture%20Mastery%20-%2010%20Key%20Concepts.png)
 
 ## 📌 Hook
 
