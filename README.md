@@ -1,4 +1,4 @@
-# 🌟 Elegantly Solving Oracle SQL Impressed Pain Spots You've Encountered Once (10 episodes) 🌟
+# 🌟 Elegantly Solving Impressed Pain Spots You’ve Encountered Once About Oracle SQL Development (17 episodes) 🌟
 
 ![](https://guestart.github.io/ESOSIPSYvEOlb1erb/Oracle%20DB%20Performance%20%26%20Architecture%20Mastery%20-%2010%20Key%20Concepts.png)
 
@@ -6,17 +6,17 @@
 
 Whether you've encountered impressed **`Pain Spots`** when dealing with Oracle SQL problems once in your daily Oracle DBA (Computer Information Industry) work?
 
-I think there exists plenty of Pain Spots particularly using Oracle SQL. Here're impressed **`Top 10`** (for the **BEGINNER** level) ...
+I think there exists plenty of Pain Spots particularly using Oracle SQL. Here're impressed **`Top 17`** (for the **BEGINNER** and **INTERMEDIATE** level) ...
 
-You're able to solve them entirely after finish learning the awesome curriculum (It's pretty **`cost-effective`** that you need **`pay $7`** only so that seeing that other 7 episodes).
+You're able to solve them entirely after finish learning the awesome curriculum (It's pretty **`cost-effective`** that you need **`pay $12`** only so that seeing that other 12 episodes).
 
 ## 🎓 About the Curriculum
 
-In each episode the deliverable resouce types have **`Video (.mp4)`**, **`Slide Deck (.pdf)`**, **`Infographic (.png)`**, the **`similar Podcast App (.html, .m4a and .txt)`** within a **.zip** compressed format by **WinRAR** software.
+In each episode the deliverable resouce types have **`Video (.mp4)`**, **`Slide Deck (.pdf)`**, **`Infographic (.png)`**, the **`similar Podcast App (.html and .m4a)`** within a **.zip** compressed format by **WinRAR** software.
 
-I've built the promotional activity for the curriculum. Namely, there has **3** number of episodes (**1**, **4** and **8**) are **`free`**. In fact you just master the **extra 7** number of Oracle SQL knowledge skills in this course (you'll find them after **finish paying $7** from [https://quanwenzhao.gumroad.com/l/1NoOSIPSYvEO](https://quanwenzhao.gumroad.com/l/1NoOSIPSYvEO)).
+I've built the promotional activity for the curriculum. Namely, there has **5** number of episodes (**1**, **4**, **8**, **12** and **17**) are **`free`**. In fact you just master the **extra 12** number of Oracle SQL knowledge skills in this course (you'll find them after **finish paying $12** from [https://quanwenzhao.gumroad.com/l/1NoOSIPSYvEO](https://quanwenzhao.gumroad.com/l/1NoOSIPSYvEO)).
 
-Here's an image about the **extra 7 number of episodes** when you finished purchasing this course.
+Here's an image about the **extra 12 number of episodes** when you finished purchasing this course.
 
 ![](https://guestart.github.io/ESOSIPSYvEOlb1erb/Solving%20Oracle%20SQL%20Impressed%20Pain%20Spots%20You've%20Encountered%20Once-Paid%20Portion.png)
 
@@ -34,9 +34,7 @@ Here's an image about the **extra 7 number of episodes** when you finished purch
   - Video: [Oracle SQL Join Paradox.mp4](https://guestart.github.io/ESOSIPSYvEOlb1erb/Oracle%20SQL%20Join%20Paradox.mp4) **`or`** [YouTube](https://youtu.be/wTMNKrRMXxs)
   - Slide Deck: [Oracle SQL Join Paradox.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/Oracle%20SQL%20Join%20Paradox.pdf)
   - Infographic: [SQL Join Syntax Standards Comparison.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/SQL%20Join%20Syntax%20Standards%20Comparison.png)
-  - Similar Podcast App: [Podcast-Why Legacy Oracle SQL Joins Crash Databases.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/Podcast-Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases.html) (you need download **`Why Legacy Oracle SQL Joins Crash Databases.m4a`** from [here](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases.m4a) to your local computer then upload it to the App)
-  - Similar Podcast App 2: [Podcast-Why Legacy Oracle SQL Joins Crash Databases-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Why Legacy Oracle SQL Joins Crash Databases.m4a`** in the .html)
-  - Similar Podcast App Subtitles: [Why Legacy Oracle SQL Joins Crash Databases.txt](https://guestart.github.io/ESOSIPSYvEOlb1erb/01.%20Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases/Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases.txt)
+  - Similar Podcast App: [Podcast-Why Legacy Oracle SQL Joins Crash Databases-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Why%20Legacy%20Oracle%20SQL%20Joins%20Crash%20Databases-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Why Legacy Oracle SQL Joins Crash Databases.m4a`** in the .html)
 
 - **02. Why Oracle ROWNUM Greater Than One Returns Zero?** **`(PAID)`**
 
@@ -46,9 +44,7 @@ Here's an image about the **extra 7 number of episodes** when you finished purch
   - Video: [The Top-N Ghost in the Machine.mp4](https://guestart.github.io/ESOSIPSYvEOlb1erb/The%20Top-N%20Ghost%20in%20the%20Machine.mp4) **`or`** [YouTube](https://youtu.be/mHv4nyCmm0w)
   - Slide Deck: [The Oracle ROWNUM Paradox.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/The%20Oracle%20ROWNUM%20Paradox.pdf)
   - Infographic: [Database ROWNUM Top-N Query Paradoxed.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/Database%20ROWNUM%20Top-N%20Query%20Paradoxed.png)
-  - Similar Podcast App: [Podcast-Why Oracle SQL Top-N Queries Fail.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/Podcast-Why%20Oracle%20SQL%20Top-N%20Queries%20Fail.html) (you need download **`Why Oracle SQL Top-N Queries Fail.m4a`** from [here](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/Why%20Oracle%20SQL%20Top-N%20Queries%20Fail.m4a) to your local computer then upload it to the App)
-  - Similar Podcast App 2: [Podcast-Why Oracle SQL Top-N Queries Fail-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Why%20Oracle%20SQL%20Top-N%20Queries%20Fail-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Why Oracle SQL Top-N Queries Fail.m4a`** in the .html)
-  - Similar Podcast App Subtitles: [Why Oracle SQL Top-N Queries Fail.txt](https://guestart.github.io/ESOSIPSYvEOlb1erb/04.%20Why%20Oracle%20SQL%20Top-N%20Queries%20Fail/Why%20Oracle%20SQL%20Top-N%20Queries%20Fail.txt)
+  - Similar Podcast App: [Podcast-Why Oracle SQL Top-N Queries Fail-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Why%20Oracle%20SQL%20Top-N%20Queries%20Fail-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Why Oracle SQL Top-N Queries Fail.m4a`** in the .html)
 
 - **05. Why Your SQL Results Keep Shifting?** **`(PAID)`**
 
@@ -60,9 +56,7 @@ Here's an image about the **extra 7 number of episodes** when you finished purch
   - Video: [Invisible Index Killer.mp4](https://guestart.github.io/ESOSIPSYvEOlb1erb/Invisible%20Index%20Killer.mp4) **`or`** [YouTube](https://youtu.be/J5gPSrDer0Y)
   - Slide Deck: [Invisible Index Killer.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Invisible%20Index%20Killer.pdf)
   - Infographic: [Mastering SQL Implicit Data Conversions.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Mastering%20SQL%20Implicit%20Data%20Conversions.png)
-  - Similar Podcast App: [Podcast-Two Missing Quotes Crash Oracle Databases.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Podcast-Two%20Missing%20Quotes%20Crash%20Oracle%20Databases.html) (you need download **`Two Missing Quotes Crash Oracle Databases.m4a`** from [here](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Two%20Missing%20Quotes%20Crash%20Oracle%20Databases.m4a) to your local computer then upload it to the App)
-  - Similar Podcast App 2: [Podcast-Two Missing Quotes Crash Oracle Databases-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Two%20Missing%20Quotes%20Crash%20Oracle%20Databases-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Two Missing Quotes Crash Oracle Databases.m4a`** in the .html)
-  - Similar Podcast App Subtitles: [Two Missing Quotes Crash Oracle Databases.txt](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Two%20Missing%20Quotes%20Crash%20Oracle%20Databases.txt)
+  - Similar Podcast App: [Podcast-Two Missing Quotes Crash Oracle Databases-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Two%20Missing%20Quotes%20Crash%20Oracle%20Databases-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Two Missing Quotes Crash Oracle Databases.m4a`** in the .html)
 
 - **09. Replace Database Triggers With Virtual Columns!** **`(PAID)`**
 
