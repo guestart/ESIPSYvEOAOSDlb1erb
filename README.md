@@ -62,6 +62,29 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 
 - **10. Why Databases Ignore Your Function-Based Index?** 💰🔥
 
+- **11. Avoiding Cartesian Chaos In Oracle SQL!** 💰🔥
+
+- **12. Fixing Oracle CTE Sorts with INLINE!** ✅
+  - Video: [Invisible_Index_Killer.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Invisible_Index_Killer.mp4)
+  - Slide Deck: [Invisible_Index_Killer.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Invisible_Index_Killer.pdf)
+  - Infographic: [Mastering_SQL_Implicit_Data_Conversions.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Mastering_SQL_Implicit_Data_Conversions.png)
+  - Similar Podcast App: [Podcast-The_Risks_of_Legacy_Oracle_Database_Types.html](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Podcast-The_Risks_of_Legacy_Oracle_Database_Types.html)
+
+- **13. Fixing ORA-30926 Join Key Fan-Out!** 💰🔥
+
+- **14. Why Order By Destroys Oracle Hierarchies?** 💰🔥
+
+- **15. Replace Oracle MODEL with Recursive CTEs!** 💰🔥
+
+- **16. Fixing Oracle LAST_VALUE with Inverse Sorts!** 💰🔥
+
+- **17. Why Databases Ignore Your Function-Based Index?** ✅
+  - Video: [Invisible_Index_Killer.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Invisible_Index_Killer.mp4)
+  - Slide Deck: [Invisible_Index_Killer.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Invisible_Index_Killer.pdf)
+  - Infographic: [Mastering_SQL_Implicit_Data_Conversions.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Mastering_SQL_Implicit_Data_Conversions.png)
+  - Similar Podcast App: [Podcast-The_Risks_of_Legacy_Oracle_Database_Types.html](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Podcast-The_Risks_of_Legacy_Oracle_Database_Types.html) 
+
+
 ## 🔍 About the Author
 
 Currently he is a Senior Oracle DBA with more than 12 years experiences. So far he has finished publishing more than 100 number of original notes on his personal blog of WordPress, furthermore regularly submitted some original code snippets of SHELL, Oracle SQL on his GitHub. He is passionately fond of communicating Oracle technology with some domestic and overseas guys, peers and friends, is **`Oracle ACE Alumni`** and any opinions are his own.
