@@ -53,10 +53,10 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 - **07. The Risks of Legacy Oracle Database Types!** 💰🔥
 
 - **08. Two Missing Quotes Crash Oracle Databases!** ✅
-  - Video: [Invisible Index Killer.mp4](https://guestart.github.io/ESOSIPSYvEOlb1erb/Invisible%20Index%20Killer.mp4)
-  - Slide Deck: [Invisible Index Killer.pdf](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Invisible%20Index%20Killer.pdf)
-  - Infographic: [Mastering SQL Implicit Data Conversions.png](https://guestart.github.io/ESOSIPSYvEOlb1erb/08.%20Two%20Missing%20Quotes%20Crash%20Oracle%20Databases/Mastering%20SQL%20Implicit%20Data%20Conversions.png)
-  - Similar Podcast App: [Podcast-Two Missing Quotes Crash Oracle Databases-2.html](https://guestart.github.io/ESOSIPSYvEOlb1erb/Podcast-Two%20Missing%20Quotes%20Crash%20Oracle%20Databases-2.html) (you can directly play the audio online in this version because I've updated the business logic, in other words, secretly adding the webURL location of **`Two Missing Quotes Crash Oracle Databases.m4a`** in the .html)
+  - Video: [Invisible_Index_Killer.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Invisible_Index_Killer.mp4)
+  - Slide Deck: [Invisible_Index_Killer.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Invisible_Index_Killer.pdf)
+  - Infographic: [Mastering_SQL_Implicit_Data_Conversions.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Mastering_SQL_Implicit_Data_Conversions.png)
+  - Similar Podcast App: [Podcast-The_Risks_of_Legacy_Oracle_Database_Types.html](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Podcast-The_Risks_of_Legacy_Oracle_Database_Types.html)
 
 - **09. Replace Database Triggers With Virtual Columns!** 💰🔥
 
