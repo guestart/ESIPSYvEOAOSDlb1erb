@@ -12,7 +12,7 @@ You're able to solve them entirely after finish learning the awesome curriculum 
 
 ## 🎓 About the Curriculum
 
-In each episode the deliverable resouce types have **`Video (.mp4)`**, **`Slide Deck (.pdf)`**, **`Infographic (.png)`**, and **`similar Podcast App (.html and .m4a)`** within a **.zip** compressed format by **WinRAR** software.
+In each episode the deliverable resouce types have **`Video (.mp4)`**, **`Slide Deck (.pdf)`**, **`Infographic (.png)`** and **`similar Podcast App (.html and .m4a)`** within a **.zip** compressed format by **WinRAR** software.
 
 I've built the promotional activity for the curriculum. Namely, there has **5** number of episodes (**1**, **4**, **8**, **12** and **17**) are **`free`**. In fact you just master the **extra 12** number of Oracle SQL knowledge skills in this course (you'll find them after **finish paying $12** from [https://quanwenzhao.gumroad.com/l/1NoOSIPSYvEO](https://quanwenzhao.gumroad.com/l/1NoOSIPSYvEO)).
 
