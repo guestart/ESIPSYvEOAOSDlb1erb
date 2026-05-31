@@ -18,7 +18,9 @@ I've built the promotional activity for the curriculum. Namely, there has **5** 
 
 Here's an image about the **extra 12 number of episodes** when you finished purchasing this course.
 
-![](https://guestart.github.io/ESOSIPSYvEOlb1erb/Solving%20Oracle%20SQL%20Impressed%20Pain%20Spots%20You've%20Encountered%20Once-Paid%20Portion.png)
+![](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17-Number-of-Impressed-Pain-Spots-You've-Encountered-Once-About-Oracle-SQL-Development-Paid-1.png)
+
+![](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17-Number-of-Impressed-Pain-Spots-You've-Encountered-Once-About-Oracle-SQL-Development-Paid-2.png)
 
 ### Note:
 
