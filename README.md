@@ -30,7 +30,7 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 
 ## 📚 Course Outline
 
-- **01. Why Legacy Oracle SQL Joins Crash Databases?** ✅
+- **01. Why Legacy Oracle SQL Joins Crash Databases?** 🎁✅
   - Video: [Oracle_SQL_Join_Paradox.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/01.Why-Legacy-Oracle-SQL-Joins-Crash-Databases/Oracle_SQL_Join_Paradox.mp4)
   - Slide Deck: [Oracle_SQL_Join_Paradox.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/01.Why-Legacy-Oracle-SQL-Joins-Crash-Databases/Oracle_SQL_Join_Paradox.pdf)
   - Infographic: [SQL_Join_Syntax_Standards_Comparison.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/01.Why-Legacy-Oracle-SQL-Joins-Crash-Databases/SQL_Join_Syntax_Standards_Comparison.png)
@@ -40,7 +40,7 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 
 - **03. Replace ROWNUM With FETCH_FIRST For Speed!** 💰🔥
 
-- **04. Why Oracle SQL Top-N Queries Fail?** ✅
+- **04. Why Oracle SQL Top-N Queries Fail?** 🎁✅
   - Video: [The_Top-N_Ghost_In_The_Machine.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/04.Why-Oracle-SQL-Top-N-Queries-Fail/The_Top-N_Ghost_In_The_Machine.mp4)
   - Slide Deck: [The Oracle ROWNUM Paradox.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/04.Why-Oracle-SQL-Top-N-Queries-Fail/The_Oracle_ROWNUM_Paradox.pdf)
   - Infographic: [Database_ROWNUM_Top-N_Query_Paradoxed.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/04.Why-Oracle-SQL-Top-N-Queries-Fail/Database_ROWNUM_Top-N_Query_Paradoxed.png)
@@ -52,7 +52,7 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 
 - **07. The Risks of Legacy Oracle Database Types!** 💰🔥
 
-- **08. Two Missing Quotes Crash Oracle Databases!** ✅
+- **08. Two Missing Quotes Crash Oracle Databases!** 🎁✅
   - Video: [Invisible_Index_Killer.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Invisible_Index_Killer.mp4)
   - Slide Deck: [Invisible_Index_Killer.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Invisible_Index_Killer.pdf)
   - Infographic: [Mastering_SQL_Implicit_Data_Conversions.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/08.Two-Missing-Quotes-Crash-Oracle-Databases/Mastering_SQL_Implicit_Data_Conversions.png)
@@ -64,7 +64,7 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 
 - **11. Avoiding Cartesian Chaos In Oracle SQL!** 💰🔥
 
-- **12. Fixing Oracle CTE Sorts with INLINE!** ✅
+- **12. Fixing Oracle CTE Sorts with INLINE!** 🎁✅
   - Video: [Optimizing_Oracle_CTEs.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/12.Fixing-Oracle-CTE-Sorts-With-INLINE/Optimizing_Oracle_CTEs.mp4)
   - Slide Deck: [Oracle_CTE_Optimization.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/12.Fixing-Oracle-CTE-Sorts-With-INLINE/Oracle_CTE_Optimization.pdf)
   - Infographic: [SQL_Tuning_Escaping_Sort_Traps.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/12.Fixing-Oracle-CTE-Sorts-With-INLINE/SQL_Tuning_Escaping_Sort_Traps.png)
@@ -78,7 +78,7 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 
 - **16. Fixing Oracle LAST_VALUE with Inverse Sorts!** 💰🔥
 
-- **17. Why Databases Ignore Your Function-Based Index?** ✅
+- **17. Why Databases Ignore Your Function-Based Index?** 🎁✅
   - Video: [Oracle_Query_Optimization.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17.Faster-Oracle-Hierarchical-Queries-By-START-WITH/Oracle_Query_Optimization.mp4)
   - Slide Deck: [Oracle_Hierarchical_Query_Optimization.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17.Faster-Oracle-Hierarchical-Queries-By-START-WITH/Oracle_Hierarchical_Query_Optimization.pdf)
   - Infographic: [Optimizing_Hierarchical_Database_Queries.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17.Faster-Oracle-Hierarchical-Queries-By-START-WITH/Optimizing_Hierarchical_Database_Queries.png)
