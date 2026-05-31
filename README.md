@@ -1,6 +1,8 @@
 # 🌟 Elegantly Solving Impressed Pain Spots You’ve Encountered Once About Oracle SQL Development (17 episodes) 🌟
 
-![](https://guestart.github.io/ESOSIPSYvEOlb1erb/Oracle%20DB%20Performance%20%26%20Architecture%20Mastery%20-%2010%20Key%20Concepts.png)
+![](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/The-Master-Oracle-Engineer's-Compendium-10-Paradoxes-and-Principles.png)
+
+![](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/Master-Oracle-SQL-Knowledge-Compendium.png)
 
 ## 📌 Hook
 
