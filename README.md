@@ -68,7 +68,7 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 
 - **11. Avoiding Cartesian Chaos In Oracle SQL!** 💰🔥
 
-- **12. Fixing Oracle CTE Sorts with INLINE!** 🎁✅
+- **12. Fixing Oracle CTE Sorts With INLINE!** 🎁✅
   - Video: [Optimizing_Oracle_CTEs.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/12.Fixing-Oracle-CTE-Sorts-With-INLINE/Optimizing_Oracle_CTEs.mp4)
   - Slide Deck: [Oracle_CTE_Optimization.pdf](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/12.Fixing-Oracle-CTE-Sorts-With-INLINE/Oracle_CTE_Optimization.pdf)
   - Infographic: [SQL_Tuning_Escaping_Sort_Traps.png](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/12.Fixing-Oracle-CTE-Sorts-With-INLINE/SQL_Tuning_Escaping_Sort_Traps.png)
@@ -78,9 +78,9 @@ Here's an image about the **extra 12 number of episodes** when you finished purc
 
 - **14. Why Order By Destroys Oracle Hierarchies?** 💰🔥
 
-- **15. Replace Oracle MODEL with Recursive CTEs!** 💰🔥
+- **15. Replace Oracle MODEL With Recursive CTEs!** 💰🔥
 
-- **16. Fixing Oracle LAST_VALUE with Inverse Sorts!** 💰🔥
+- **16. Fixing Oracle LAST_VALUE With Inverse Sorts!** 💰🔥
 
 - **17. Why Databases Ignore Your Function-Based Index?** 🎁✅
   - Video: [Oracle_Query_Optimization.mp4](https://guestart.github.io/ESIPSYvEOAOSDlb1erb/17.Faster-Oracle-Hierarchical-Queries-By-START-WITH/Oracle_Query_Optimization.mp4)
